@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ToDoCalendar</string>
+    <string name="hint">Your Task</string>
+</resources>
